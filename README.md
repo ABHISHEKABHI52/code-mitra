@@ -1,4 +1,4 @@
-# CodeMitra
+# CodeDost
 
 CodeMitra is a Local Language Code Explainer. It helps beginner programmers understand errors in simple Hindi, Hinglish, or English using a strict JSON response format.
 
