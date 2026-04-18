@@ -22,7 +22,16 @@ export default function ResultCard({ data }) {
 
   return (
     <div className="mt-6 overflow-hidden rounded-2xl border border-gray-200 bg-white">
-      <div className="bg-indigo-600 px-5 py-3 text-sm font-semibold text-white">Explanation Ready</div>
+      <div className="flex items-center justify-between bg-indigo-600 px-5 py-3 text-sm font-semibold text-white">
+        <span>Explanation Ready</span>
+        <span
+          className={`rounded-full px-2 py-0.5 text-xs font-semibold ${
+            data.response_mode === "live" ? "bg-emerald-500 text-white" : "bg-amber-400 text-gray-900"
+          }`}
+        >
+          {data.response_mode === "live" ? "Live AI" : "Fallback Mode"}
+        </span>
+      </div>
       <div className="space-y-5 p-5">
         <Section color="border-blue-500" label="Meaning">
           <p className="text-gray-800">{data.meaning}</p>

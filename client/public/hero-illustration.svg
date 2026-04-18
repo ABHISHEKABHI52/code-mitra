@@ -1,0 +1,36 @@
+<svg width="960" height="900" viewBox="0 0 960 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="900" rx="42" fill="#F7EFE3"/>
+  <rect x="60" y="60" width="840" height="780" rx="28" fill="#FFFDF8" stroke="#E6D9C7"/>
+  <rect x="110" y="110" width="220" height="58" rx="16" fill="#E84B0F"/>
+  <circle cx="161" cy="129" r="14" fill="#FFF3EA"/>
+  <path d="M157 129l8-8M165 129l-8-8" stroke="#E84B0F" stroke-width="3" stroke-linecap="round"/>
+  <text x="186" y="137" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">CodeMitra</text>
+  <rect x="110" y="196" width="740" height="88" rx="20" fill="#F6EFE6" stroke="#E7DBC9"/>
+  <circle cx="150" cy="240" r="16" fill="#FF8C42"/>
+  <rect x="186" y="220" width="260" height="18" rx="9" fill="#D9C9B4"/>
+  <rect x="186" y="248" width="410" height="14" rx="7" fill="#E1D5C5"/>
+  <rect x="642" y="218" width="148" height="50" rx="14" fill="#1A1916"/>
+  <text x="685" y="250" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Explain</text>
+  <rect x="110" y="316" width="426" height="440" rx="26" fill="#FFF" stroke="#E7DBC9"/>
+  <rect x="556" y="316" width="294" height="440" rx="26" fill="#FFF" stroke="#E7DBC9"/>
+  <text x="144" y="362" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#1A1916">Paste your error</text>
+  <rect x="144" y="388" width="358" height="190" rx="18" fill="#FFF6EF" stroke="#F0D6C2"/>
+  <rect x="172" y="418" width="220" height="14" rx="7" fill="#D37D4D"/>
+  <rect x="172" y="448" width="288" height="14" rx="7" fill="#E0C6B5"/>
+  <rect x="172" y="478" width="182" height="14" rx="7" fill="#E0C6B5"/>
+  <rect x="172" y="532" width="126" height="34" rx="10" fill="#E84B0F"/>
+  <text x="202" y="555" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Ctrl + Enter</text>
+  <text x="590" y="362" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#1A1916">AI response</text>
+  <rect x="590" y="390" width="206" height="22" rx="11" fill="#F2E3D3"/>
+  <rect x="590" y="428" width="220" height="14" rx="7" fill="#E0C6B5"/>
+  <rect x="590" y="456" width="182" height="14" rx="7" fill="#D9C9B4"/>
+  <rect x="590" y="492" width="220" height="104" rx="18" fill="#F7F0E8" stroke="#EBDBCA"/>
+  <rect x="612" y="518" width="118" height="12" rx="6" fill="#E84B0F"/>
+  <rect x="612" y="542" width="160" height="12" rx="6" fill="#D9C9B4"/>
+  <rect x="612" y="566" width="144" height="12" rx="6" fill="#E0C6B5"/>
+  <circle cx="690" cy="650" r="78" fill="#FFF1E6"/>
+  <circle cx="690" cy="650" r="52" fill="#E84B0F"/>
+  <path d="M660 650h60" stroke="#FFF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M690 620v60" stroke="#FFF" stroke-width="10" stroke-linecap="round"/>
+  <text x="610" y="760" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#8A5A42">Simple. Fast. Human.</text>
+</svg>

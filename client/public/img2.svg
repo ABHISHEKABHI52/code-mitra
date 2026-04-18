@@ -1,0 +1,23 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="36" fill="#F7EFE6"/>
+  <rect x="90" y="90" width="1020" height="720" rx="30" fill="#FFFFFF" stroke="#E9D9C8" stroke-width="4"/>
+  <rect x="150" y="150" width="900" height="68" rx="20" fill="#FFF1E7"/>
+  <circle cx="190" cy="184" r="14" fill="#E84B0F"/>
+  <rect x="232" y="170" width="240" height="20" rx="10" fill="#D9C9B4"/>
+  <rect x="150" y="264" width="360" height="420" rx="24" fill="#FFF8F2" stroke="#F0D4BF" stroke-width="4"/>
+  <rect x="542" y="264" width="508" height="420" rx="24" fill="#1A1916"/>
+  <text x="188" y="322" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#1A1916">Input</text>
+  <rect x="188" y="354" width="280" height="18" rx="9" fill="#E3D1BF"/>
+  <rect x="188" y="388" width="290" height="18" rx="9" fill="#E3D1BF"/>
+  <rect x="188" y="442" width="220" height="120" rx="20" fill="#FFE6D6"/>
+  <rect x="188" y="590" width="150" height="42" rx="14" fill="#E84B0F"/>
+  <text x="225" y="618" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#fff">Analyze</text>
+  <text x="590" y="330" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFF5EB">Analysis</text>
+  <rect x="590" y="364" width="380" height="20" rx="10" fill="#403A34"/>
+  <rect x="590" y="402" width="320" height="20" rx="10" fill="#403A34"/>
+  <rect x="590" y="440" width="420" height="20" rx="10" fill="#403A34"/>
+  <rect x="590" y="510" width="370" height="150" rx="22" fill="#2A241F" stroke="#4B423A" stroke-width="2"/>
+  <rect x="620" y="546" width="240" height="16" rx="8" fill="#FF8C42"/>
+  <rect x="620" y="578" width="180" height="16" rx="8" fill="#6E6257"/>
+  <rect x="620" y="610" width="260" height="16" rx="8" fill="#6E6257"/>
+</svg>

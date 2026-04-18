@@ -21,10 +21,13 @@ function Home() {
     setError(null);
 
     try {
-      const res = await explainCode(input, lang);
-      setResult(res.data);
+      const response = await explainCode(input.trim(), lang);
+      setResult(response.data);
     } catch (err) {
-      setError(err.response?.data?.error || "Something went wrong. Please try again.");
+      setError(
+        err.response?.data?.error ||
+          "Backend se live explanation aati hai. Agar OpenAI quota/permission issue ho, app safe fallback JSON dikhata hai taaki demo kabhi break na ho."
+      );
     } finally {
       setLoading(false);
     }

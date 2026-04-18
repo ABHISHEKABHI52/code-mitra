@@ -17,14 +17,17 @@ The goal is simple:
 
 Frontend:
 - React
+
+CodeMitra is a Local Language Code Explainer with a polished landing page and a live demo. It helps beginner programmers understand errors in simple Hindi, Hinglish, or English using a strict JSON response format.
 - Vite
-- Tailwind CSS
+The app takes a programming error or code snippet from the user, sends it to a backend prompt pipeline, asks OpenAI to explain it in beginner-friendly language, and renders the response inside an immersive frontend inspired by the hackathon reference design while keeping the CodeMitra name.
 - Axios
 
 Backend:
 - Node.js
 - Express
 - OpenAI SDK
+- Custom in-app CSS for the landing page and demo experience
 - dotenv
 - cors
 
@@ -33,15 +36,16 @@ Backend:
 - Language selection: Hindi, Hinglish, English
 - Beginner-first explanations
 - Strict JSON response contract
+- Hero section, feature sections, and live demo panel
 - Copy button for generated example code
 - Example error chips for quick testing
-- Responsive and clean UI
-- Safe handling for missing input or invalid language
-
-## Project Structure
-
+1. User lands on the CodeMitra page and scrolls through the product story.
+2. User pastes an error or picks one of the sample chips.
+3. User selects a language.
+4. User clicks the demo button.
+5. Frontend sends a POST request to the backend and renders the explanation cards.
 ```text
-CodeMitra/
+- `client/src/App.jsx`: full landing page and live demo UI.
 ├── client/
 │   ├── index.html
 │   ├── package.json
