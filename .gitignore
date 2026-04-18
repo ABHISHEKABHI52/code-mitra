@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.local
+client/node_modules/
+server/node_modules/
+*.log
+.venv/
+__pycache__/
